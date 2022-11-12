@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    color: white;
+}
+.menu {
+    border: 5px solid cyan;
+    width: 1700px;
+    height: 250px;
+    display: flex;
+    border-radius: 5%;
+    margin-left: 10px;
+}
+.menu img{
+    width: 230px;
+    height: 230px;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+.menu h3{
+    width: 230px;
+    height: 230px;
+    margin-top: 85px;
+    margin-left: 200px;
+    font-size: 50px;
+}
